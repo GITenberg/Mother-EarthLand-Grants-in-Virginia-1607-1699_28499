@@ -1,0 +1,26 @@
+_repo: Mother-EarthLand-Grants-in-Virginia-1607-1699_28499
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robinson, Walter Stitt
+    alias: Robinson, W. Stitt (Walter Stitt)
+    gutenberg_agent_id: '33368'
+    url: http://www.gutenberg.org/2009/agents/33368
+description: ''
+gutenberg_issued: '2009-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28499'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Land grants -- Virginia -- History'
+- !lcsh 'Virginia -- History -- Colonial period, ca. 1600-1775'
+title: 'Mother Earth: Land Grants in Virginia, 1607-1699'
+url: http://www.gutenberg.org/ebooks/28499
